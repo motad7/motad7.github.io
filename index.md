@@ -2,7 +2,7 @@
 This is my home page! My name is Damien Mota and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
 ## Computer Science Projects
-My GitHub Page is http://github.com/motad7.
+My GitHub Page is https://github.com/motad7.
 
 ### CPSC 120
 
